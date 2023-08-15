@@ -1,0 +1,42 @@
+[
+   {
+      "last_name": "Шишкин",
+      "first_name": "Пётр",
+      "middle_name": "Павлович",
+      "organization": "ламода",
+      "work_phone": "335624",
+      "personal_phone": "336521"
+   },
+   {
+      "last_name": "Пышкин",
+      "first_name": "Пётр",
+      "middle_name": "Андреевич",
+      "organization": "озом",
+      "work_phone": "874563",
+      "personal_phone": "658525"
+   },
+   {
+      "last_name": "Андреановский",
+      "first_name": "Валентин",
+      "middle_name": "Олегович",
+      "organization": "дормакаба",
+      "work_phone": "788555",
+      "personal_phone": "256665"
+   },
+   {
+      "last_name": "Пугачева",
+      "first_name": "Алла",
+      "middle_name": "Евгеньевна",
+      "organization": "музторг",
+      "work_phone": "8588745",
+      "personal_phone": "86655448"
+   },
+   {
+      "last_name": "Лузин",
+      "first_name": "Артём",
+      "middle_name": "Егорович",
+      "organization": "ооо \"КАЗ\"",
+      "work_phone": "85556888",
+      "personal_phone": "4558585"
+   }
+]
